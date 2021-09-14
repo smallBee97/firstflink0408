@@ -1,0 +1,4 @@
+hello flink
+nihao hadoop
+hello hadoop
+we come to beijing
